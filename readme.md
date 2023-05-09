@@ -1,0 +1,1 @@
+# Using GIT with multiple destinations
